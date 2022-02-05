@@ -1,0 +1,89 @@
+<html>
+<head>
+<title> Tarea 1 IPC[F] </title>
+</head>
+  <body bgcolor="#fed9a5" text="black"> 
+    <center> <p> <font face="georgia" size="20">  José Gerardo González Marroquín  </font> </p> </center>
+    <center> <p> <font face="arial" size="10">    201700520  </p> </center>
+
+    <style type="text/css" >
+        table, th, td{
+           border: 1px solid black;
+           border-collapse: collapse;
+        }
+      
+        th, td {
+           padding: 10px;
+        }
+    </style>
+
+    <table style="width: 100%">
+
+       <tr>
+           <th>
+               CURSOS
+           </th>
+           <th>
+               SEMESTRE
+           </th>
+           <th>
+              INFORMACION
+           </th>
+       </tr>
+
+       <tr>
+           <td>
+              <center> Introduccion a al Programacion 1 </center>
+           </td>
+           <td>
+              <center> 3 </center>
+           </td>
+           <td>
+              <center> El curso busca ser el acercamiento inicial del estudiante de la carrera de sistemas, al mundo de
+                       Desarrollo de Software mediante el uso de métodos, técnicas y metodologías especializadas. </center>
+           </td>   
+       </tr>
+
+       <tr> 
+          <td>
+             <center> Fisica 2 </center>
+          </td> 
+          <td>
+             <center> 4 </center>
+          </td> 
+              
+          <td>
+             <center>  En este curso se estudia el Electromagnetismo clásico a un nivel introductorio, considerando la interacción de las cargas
+                       con los campos Eléctrico y Magnético a velocidades no relativistas. </center>   
+          </td> 
+      </tr>
+      
+      <tr> 
+          <td>
+             <center> Matematica Aplicada 4 </center>
+         </td>
+         <td>
+             <center> 6 </center>
+         </td>
+         <td>
+             <center> Interpreta, analiza y aplica conceptos y procedimientos para la solución de problemas de ingeniería. </center>
+         </td>  
+      </tr>
+     
+      <tr>
+         <td>
+            <center> Calusac (Ingles) </center>
+         </td>
+         <td>
+             <center> Cualquier Semestre </center>
+         </td>
+         <td>
+            <center> Formacion para aprender nuevo idioma, y poder cerrar la carrera de ingeniera. </center>
+         </td>   
+      </tr>
+      
+    </table>
+
+  </body>
+
+</html>
